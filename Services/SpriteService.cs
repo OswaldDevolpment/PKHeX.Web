@@ -1,7 +1,6 @@
 using System.Net.Http.Json;
 using PKHeX.Core;
 using PKHeX.Core.Util;
-using PKHeX.Core.Saves;
 using PKHeX.Core.Resources;
 using PKHeX.Core.PersonalInfo;
 using PKHeX.Drawing;
