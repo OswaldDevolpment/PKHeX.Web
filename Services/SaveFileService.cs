@@ -1,4 +1,14 @@
 using PKHeX.Core;
+using PKHeX.Core.Moves;
+using PKHeX.Core.Editing;
+using PKHeX.Core.Game;
+using PKHeX.Core.Items;
+using PKHeX.Core.PKM;
+using PKHeX.Core.Util;
+using PKHeX.Core.Saves;
+using PKHeX.Core.Resources;
+using PKHeX.Core.PersonalInfo;
+using PKHeX.WinForms;
 
 namespace PKHeX.Web.Services
 {
